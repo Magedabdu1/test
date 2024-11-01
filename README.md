@@ -61,8 +61,7 @@ Customer Segmentation :
 
 ![key influensers](https://github.com/user-attachments/assets/96ca6c1d-133c-4449-b142-1fe0e83c6d0a)
 
-Customer Segmentation : 
-![key influensers](https://github.com/user-attachments/assets/96ca6c1d-133c-4449-b142-1fe0e83c6d0a)
+
 
 
  
