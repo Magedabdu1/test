@@ -29,19 +29,24 @@ Snap of Tables:
 
         
 Data Modeling (Snowflake schema):
+
 ![data modeling](https://github.com/user-attachments/assets/60a6061b-66ff-45d3-8578-a2153e16ecaa)
 
 
 Creating Measures using DAX: 
+
 ![measures](https://github.com/user-attachments/assets/494cd8b5-dcb3-4a18-a248-a7997e8022ed)
+
 
 Executive Dashboard:
 
 ![exec dashboard](https://github.com/user-attachments/assets/2dbc1582-85b3-4d35-b2a5-7209f4069c66)
 
+
  Product Detail: 
 
  ![product detail](https://github.com/user-attachments/assets/a52651fa-9282-4355-948d-b2d87091042c)
+
        
  
  Customer detail : 
@@ -51,6 +56,10 @@ Executive Dashboard:
 
 decomposition Tree : 
  ![decomposition tree](https://github.com/user-attachments/assets/584abf97-bce5-4d11-929f-d467764f428a)
+
+Customer Segmentation : 
+
+![key influensers](https://github.com/user-attachments/assets/96ca6c1d-133c-4449-b142-1fe0e83c6d0a)
 
 Customer Segmentation : 
 ![key influensers](https://github.com/user-attachments/assets/96ca6c1d-133c-4449-b142-1fe0e83c6d0a)
